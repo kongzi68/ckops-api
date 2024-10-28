@@ -1,0 +1,8 @@
+lib
+.idea/
+*.iml
+.git
+.env
+migrations
+
+!.idea/.gitignore
